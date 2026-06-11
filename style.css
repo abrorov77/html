@@ -64,3 +64,160 @@
 .kart1 p{
    margin-top: 20px;
 }
+.q1 h1{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.kart0{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    gap: 50px;
+}
+.kart2{
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 10px rgb(163, 162, 162);
+}
+.kart2 p{
+    color: grey;
+    margin-top: 20px;
+}
+.q2{
+    width: 80%;
+    margin: auto;
+}
+@media (min-width:768px) and (max-width:1024px){
+
+    body{
+        overflow-x: hidden;
+        background: #f5f5f5;
+    }
+    .header{
+        width: 100%;
+        height: 45px;
+        padding: 0 20px;
+    }
+    .q1{
+        gap: 20px;
+        font-size: 14px;
+    }
+    .foto{
+        padding-left: 20px;
+        top: 10px;
+    }
+    .foto img{
+        width: 170px;
+    }
+    .sek1{
+        width: 92%;
+        margin-top: 40px;
+        gap: 10px;
+        align-items: center;
+    }
+    .sek1 h1{
+        font-size: 48px;
+        line-height: 52px;
+        font-weight: 500;
+    }
+    .sek1 h2{
+        margin-top: 20px;
+        font-size: 18px;
+        line-height: 35px;
+        font-weight: 400;
+    }
+    .foto1{
+        width: 420px;
+        position: relative;
+        bottom: 20px;
+    }
+    .cnobka{
+        width: 270px;
+        height: 50px;
+        padding: 0;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 6px;
+        font-size: 17px;
+    }
+    .kart{
+        width: 92%;
+        margin-top: 30px;
+        gap: 15px;
+    }
+    .kart1{
+        width: 340px;
+        height: 165px;
+        padding: 22px;
+        border-radius: 18px;
+    }
+    .kart1 h1{
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .kart1 p{
+        margin-top: 18px;
+        font-size: 16px;
+        line-height: 28px;
+        color: gray;
+    }
+    .kart0{
+    width: 92%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-top: 40px;
+}
+.kart2{
+    width: 100%;
+    height: 100px;
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgb(230,230,230);
+
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.kart2 img{
+    width: 45px;
+    height: 45px;
+    margin-top: 5px;
+}
+.kart2 h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.kart2 p{
+    font-size: 15px;
+    color: gray;
+    line-height: 24px;
+    margin-top: 0;
+}
+.q2{
+    width: 92%;
+    margin: auto;
+    margin-top: 40px;
+}
+.q2 img{
+    width: 100%;
+}
+}
+
+
+
+
+
+@media (min-width:510px){
+
+
+}
