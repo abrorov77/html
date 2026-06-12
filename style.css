@@ -222,7 +222,55 @@
 .minkla {
     font-size: 25px;
 }
+.nos{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+}
+.ss{
+    width: 80%;
+    margin:auto ;
+    display: flex;
+    gap: 70px;
+}
+.ss p{
+    color: grey;
+    margin-top: 20px;
+    width: 450px;
+}
+.ss h1{
+  margin-top: 40px;
+}
+.e2{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 50px;
+}
+.e2 h1{
+  margin-top: 100px;
+}
+.e2 p{
+   margin-top: 30px;
+   color: grey;
+}
+.dok1{
+    display: flex;
+    gap: 20px;
+    width: 450px;
+    height: 150px;
+    box-shadow: 0px 0px 10px rgb(209, 206, 206);
+    padding: 10px;
+    padding-top: 30px;
+}
+.rok{
+    width: 80%;
+    display: flex;
+    gap: 20px;
 
+   
+}
 
 @media (min-width:768px) and (max-width:1024px) {
 
