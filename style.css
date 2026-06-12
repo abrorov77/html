@@ -92,6 +92,41 @@
     width: 80%;
     margin: auto;
 }
+.z1{
+    width: 300px;
+}
+.pp{
+    width: 430px;
+    color: grey;
+    margin-top: 30px;
+}
+.joni{
+    display: flex;
+    justify-content: space-around;margin-top: 50px;
+}
+.cal{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.ca{
+    display: flex;
+    gap: 20px;
+    margin-top: 100px;
+}
+.ca1{
+    width: 350px;
+}
+.ca1 p{
+    color: grey;
+    margin-top: 20px;
+}
+
+
+
+
 @media (min-width:768px) and (max-width:1024px){
 
     body{
